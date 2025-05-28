@@ -9,5 +9,6 @@ Regional Sales Distribution (State & City-wise)
 Product Type Performance
 Interactive Slicers to filter by Gateway, Province, and Measure
 # Data Overview
+https://github.com/sohail7784/Shopify-Sales-Customer-Funnel-Report/blob/main/Shopify%20Sales.xlsx
 
 
