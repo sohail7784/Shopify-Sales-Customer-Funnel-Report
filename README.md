@@ -11,6 +11,6 @@ Interactive Slicers to filter by Gateway, Province, and Measure
 # Data Overview
 https://github.com/sohail7784/Shopify-Sales-Customer-Funnel-Report/blob/main/Shopify%20Sales.xlsx
 # Data Dashboard
-https://github.com/sohail7784/Shopify-Sales-Customer-Funnel-Report/blob/main/shopify%20dashboard.pbix
+https://github.com/sohail7784/Shopify-Sales-Customer-Funnel-Report/blob/main/shopify%20dashboard%201.pbix
 
 
